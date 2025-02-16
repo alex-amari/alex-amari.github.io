@@ -2,11 +2,24 @@
 
 ## Current Projects
 
-### LLM Model Fingerprinting
-Built a classifier to identify the source model of AI-generated text, achieving ~80% accuracy in distinguishing between major LLMs. Implemented using PyTorch and deployed on Hugging Face.
-[View Project](your-huggingface-link)
+### Deep fake detection via autoencoder ensembles: Synthetic dataset generations and model checkpoints. Datasets on HuggingFace here. "Proof of concept report" here. 
 
-## Past Projects
+### An AI guessing game... more info coming soon 
 
-### Financial Fraud Detection
-Developed autoencoder ensembles for anomaly detection at Deloitte London, improving detection rates by ~15% over existing systems.
+### How "random" are various LLMs? 
+
+## Recent Past Projects
+
+### Do LLMs leave fingerprints?
+
+### "Generation 28": A vision-language art project
+
+### "BradGPT": A GPT wrapper with system prompting and a retrieval system, designed to act as a course assistant for Yale comp sci./law course.
+
+### 
+
+## Distant Path Projects
+
+### Python code to visualize protein residue differences in novel COVID variants. [Writeup][Code] 
+
+### Oxford master's thesis
