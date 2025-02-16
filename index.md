@@ -1,4 +1,4 @@
-# Technical Portfolio
+# Some Technical Projects
 
 ## Current Projects
 
