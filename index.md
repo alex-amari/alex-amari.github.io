@@ -2,9 +2,9 @@
 
 ### An AI guessing game... more info coming soon 
 
-### Do LLMs leave fingerprints? Training some basic classifiers to try to discriminate ChatGPT (4o and 3.5 turbo) from Claude (3.5) from Human [Writeup](LLMsFinal.pdf), [Detector](https://huggingface.co/spaces/datboyalex/LLM_movie_review_detector) 
+### Do LLMs leave fingerprints? For example, training some basic classifiers to try to discriminate ChatGPT (4o and 3.5 turbo) from Claude (3.5) from Human [Writeup](LLMsFinal.pdf), [Detector](https://huggingface.co/spaces/datboyalex/LLM_movie_review_detector) 
 
-### Deep fake detection via autoencoder ensembles: Synthetic dataset generations and model checkpoints. Early [Datasets] on HuggingFace. Proof of concept [Writeup]
+### Deep fake detection via autoencoder ensembles: Synthetic dataset generations and model checkpoints. Early [Datasets] on HuggingFace. Early architecture and results [Writeup]
 
 ## Some Recent Projects
 
