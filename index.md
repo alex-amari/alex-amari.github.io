@@ -18,6 +18,6 @@
 
 ## Some Distant Path Projects
 
-### Python code to visualize protein residue differences in novel COVID variants. [Writeup][Code] 
+### Python code to visualize protein residue differences in novel COVID variants. [Writeup]
 
-### Oxford master's thesis, classification and textual analysis on symptom self-reporting in OCD [Writeup]
+### Oxford master's thesis, classification and textual analysis on symptom self-reporting in OCD [Writeup](Thesis.pdf)
