@@ -1,4 +1,4 @@
-## Ongoing Projects
+## Some Ongoing Projects
 
 ### An AI guessing game... more info coming soon 
 
@@ -14,7 +14,7 @@
 
 ### "BradGPT": A GPT wrapper with system prompting and a retrieval augmented generation system, designed to act as a course assistant for Yale comp sci./law course. [Report](BradGPT.pdf), [Link](https://huggingface.co/spaces/datboyalex/bradgpt)
 
-## Distant Path Projects
+## Some Distant Path Projects
 
 ### Python code to visualize protein residue differences in novel COVID variants. [Writeup][Code] 
 
