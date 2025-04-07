@@ -6,7 +6,7 @@
 
 ## Some Recent Projects
 
-### A small LLM evaluation experiment with an ablation study on GSM8K math questions [Writeup](Ablation.pdf), [Code]
+### A small LLM evaluation experiment with an ablation study on GSM8K math questions [Writeup](Ablation.pdf)
 
 ### Do LLMs leave fingerprints? Training some basic classifiers to try to discriminate ChatGPT (4o and 3.5 turbo) from Claude (3.5) from Human [Writeup](LLMsFinal.pdf), [Detector](https://huggingface.co/spaces/datboyalex/LLM_movie_review_detector) 
 
