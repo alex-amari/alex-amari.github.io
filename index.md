@@ -6,11 +6,13 @@
 
 ## Some Recent Projects
 
-### How "random" are various LLMs? [Example]
+### A small LLM evaluation experiment with an ablation study on GSM8K math questions [Writeup](Ablation.pdf), [Code]
 
 ### Do LLMs leave fingerprints? Training some basic classifiers to try to discriminate ChatGPT (4o and 3.5 turbo) from Claude (3.5) from Human [Writeup][Detector]
 
 ### "Generation 28": A vision-language art project [Writeup][Artwork](EH28.mp4)
+
+### How "random" are various LLMs? [Example]
 
 ### "BradGPT": A GPT wrapper with system prompting and a retrieval augmented generation system, designed to act as a course assistant for Yale comp sci./law course. [Report](BradGPT.pdf), [Link](https://huggingface.co/spaces/datboyalex/bradgpt)
 
