@@ -10,7 +10,7 @@
 
 ### Do LLMs leave fingerprints? Training some basic classifiers to try to discriminate ChatGPT (4o and 3.5 turbo) from Claude (3.5) from Human [Writeup](LLMsFinal.pdf), [Detector](https://huggingface.co/spaces/datboyalex/LLM_movie_review_detector) 
 
-### "Generation 28": A vision-language art project with GPT-4 vision and Stable Diffusion 3 [Writeup],[Artwork](EH28.mp4)
+### "Generation 28": A vision-language art project with GPT-4 vision and Stable Diffusion 3 [Writeup](Write-up.pdf),[Artwork](EH28.mp4)
 
 ### How "random" are various LLMs? [Example](digits.png)
 
