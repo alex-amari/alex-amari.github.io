@@ -2,15 +2,15 @@
 
 ### An AI guessing game... more info coming soon 
 
-### Deep fake detection via autoencoder ensembles: Synthetic dataset generations and model checkpoints. Datasets on HuggingFace here. Proof of concept [Report]
+### Deep fake detection via autoencoder ensembles: Synthetic dataset generations and model checkpoints. Datasets on HuggingFace here. Proof of concept [Writeup]
 
 ## Some Recent Projects
 
-### How "random" are various LLMs? [Example]
+### How "random" are various LLMs? [Example](alexamari.com)
 
 ### Do LLMs leave fingerprints? [Writeup]
 
-### "Generation 28": A vision-language art project [Writeup](Event Horizon, Generation 28 (1).mp4.md)
+### "Generation 28": A vision-language art project [Writeup][Artwork]
 
 ### "BradGPT": A GPT wrapper with system prompting and a retrieval system, designed to act as a course assistant for Yale comp sci./law course. [Report][Link]
 
