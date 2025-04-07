@@ -12,7 +12,7 @@
 
 ### "Generation 28": A vision-language art project [Writeup][Artwork]
 
-### "BradGPT": A GPT wrapper with system prompting and a retrieval augmented generation system, designed to act as a course assistant for Yale comp sci./law course. [Report][Link]
+### "BradGPT": A GPT wrapper with system prompting and a retrieval augmented generation system, designed to act as a course assistant for Yale comp sci./law course. [Report](BradGPT.pdf)[Link]
 
 ## Distant Path Projects
 
