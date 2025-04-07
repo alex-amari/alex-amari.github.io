@@ -10,7 +10,7 @@
 
 ### A small LLM evaluation experiment with an ablation study on GSM8K math questions [Writeup](Ablation.pdf)
 
-### "Generation 28": A vision-language art project with GPT-4 vision and Stable Diffusion 3 [Writeup](Write-up.pdf), [Artwork](EH28.mp4)
+### "Generation 28": A vision-language art project with GPT-4 vision and Stable Diffusion 3 [Writeup](Write-up.pdf), [Artwork](EventHorizon.mp4)
 
 ### How "random" are various LLMs? [Example](digits.png)
 
