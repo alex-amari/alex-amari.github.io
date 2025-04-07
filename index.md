@@ -4,7 +4,7 @@
 
 ### Do LLMs leave fingerprints? For example, training some basic classifiers to try to discriminate ChatGPT (4o and 3.5 turbo) from Claude (3.5) from Human [Writeup](LLMsFinal.pdf), [Detector](https://huggingface.co/spaces/datboyalex/LLM_movie_review_detector) 
 
-### Deep fake detection via autoencoder ensembles: Synthetic dataset generations and model checkpoints. Early [Datasets] on HuggingFace. Early architecture and results [Writeup](ae_writeup.pdf)
+### Deep fake detection via autoencoder ensembles: Synthetic dataset generations and model checkpoints. Early datasets on HuggingFace. Early architecture and results [Writeup](ae_writeup.pdf)
 
 ## Some Recent Projects
 
